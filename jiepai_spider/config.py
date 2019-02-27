@@ -1,0 +1,5 @@
+GROUP_START = 1
+GROUP_END = 6
+
+KEYWORD = '街拍'
+
